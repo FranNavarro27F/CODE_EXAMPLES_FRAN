@@ -1,0 +1,23 @@
+#carta_producto {
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  padding-left: 3rem;
+  width: 55vw;
+}
+
+#carta_producto h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+#carta_producto p {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+#carta_producto span {
+  font-size: 1.25rem;
+  font-weight: bold;
+}

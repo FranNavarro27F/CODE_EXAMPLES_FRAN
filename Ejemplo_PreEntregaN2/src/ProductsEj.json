@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Tarjeta de Video ASUS Dual GeForce RTX 3070",
+    "description": "Tarjeta de Video ASUS Dual GeForce RTX 3070, 8GB GDDR6, 256-bit, PCI Express 4.0",
+    "price": 139999,
+    "thumbnails": ["..\\public\\img\\gpu_asus_dual_rtx3070.jpg"],
+    "code": "asusRTX3070",
+    "stock": 8,
+    "status": true,
+    "category": "Tarjetas de Video"
+  },
+  {
+    "title": "Procesador Intel Core i7-11700F",
+    "description": "Procesador Intel Core i7-11700F (2.5GHz, LGA1200, 65W, 8-Core, 16-Thread)",
+    "price": 129999,
+    "thumbnails": ["..\\public\\img\\cpu_i7_11700f.jpg"],
+    "code": "i7-11700f",
+    "stock": 6,
+    "status": true,
+    "category": "Procesadores"
+  },
+  {
+    "title": "Monitor Curvo Samsung Odyssey G5",
+    "description": "Monitor Curvo Samsung Odyssey G5, 32'', 1440p, 165Hz, VA, FreeSync, G-Sync Compatible",
+    "price": 199999,
+    "thumbnails": ["..\\public\\img\\monitor_samsung_odyssey_g5.jpg"],
+    "code": "samsungOdysseyG5",
+    "stock": 4,
+    "status": true,
+    "category": "Monitores"
+  },
+  {
+    "title": "Memoria RAM Corsair Vengeance RGB Pro 32GB",
+    "description": "Memoria RAM Corsair Vengeance RGB Pro 32GB (2 x 16GB) DDR4 3600MHz C18 XMP 2.0",
+    "price": 189999,
+    "thumbnails": ["..\\public\\img\\ram_corsair_vengeance_rgb_pro_32gb.jpg"],
+    "code": "corsairVengeanceRGBPro32gb",
+    "stock": 11,
+    "status": true,
+    "category": "RAM"
+  },
+  {
+    "title": "Disco Duro Externo Seagate Backup Plus Slim",
+    "description": "Disco Duro Externo Seagate Backup Plus Slim, 2TB, USB 3.0, plata",
+    "price": 82999,
+    "thumbnails": ["..\\public\\img\\hdd_seagate_backup_plus_slim.jpg"],
+    "code": "seagateBackupPlusSlim2tb",
+    "stock": 15,
+    "status": true,
+    "category": "Almacenamiento"
+  },
+  {
+    "title": "Fuente de Poder EVGA 850W G5",
+    "description": "Fuente de Poder EVGA 850W G5, 80+ Gold, completamente modular, ventilador inteligente",
+    "price": 179999,
+    "thumbnails": ["..\\public\\img\\psu_evga_g5_850w.jpg"],
+    "code": "evgaG5-850w",
+    "stock": 7,
+    "status": true,
+    "category": "Fuentes de Poder"
+  },
+  {
+    "title": "Memoria RAM Trident Z RGB 16GB",
+    "description": "Memoria RAM Trident Z RGB 16GB (2 x 8GB) DDR4 3600MHz PC4-28800",
+    "price": 139999,
+    "thumbnails": ["..\\public\\img\\ram_trident_z.jpg"],
+    "code": "tridentZRGB16gb",
+    "stock": 12,
+    "status": true,
+    "category": "RAM"
+  },
+  {
+    "title": "Disco Duro Externo WD Elements",
+    "description": "Disco Duro Externo WD Elements, 2TB, USB 3.0, negro",
+    "price": 79999,
+    "thumbnails": ["..\\public\\img\\hdd_wd_elements.jpg"],
+    "code": "wdElements2tb",
+    "stock": 5,
+    "status": true,
+    "category": "Almacenamiento"
+  },
+  {
+    "title": "Tarjeta de Video GeForce RTX 3080",
+    "description": "Tarjeta de Video GeForce RTX 3080, 10GB GDDR6X, 320bit, PCI Express 4.0",
+    "price": 219999,
+    "thumbnails": ["..\\public\\img\\gpu_rtx3080.jpg"],
+    "code": "rtx3080",
+    "stock": 3,
+    "status": true,
+    "category": "Tarjetas de Video"
+  },
+  {
+    "title": "Procesador Intel Core i9-11900K",
+    "description": "Procesador Intel Core i9-11900K (3.5GHz, LGA1200, 125W, 8-Core, 16-Thread)",
+    "price": 179999,
+    "thumbnails": ["..\\public\\img\\cpu_i9_11900k.jpg"],
+    "code": "i9-11900k",
+    "stock": 9,
+    "status": true,
+    "category": "Procesadores"
+  },
+  {
+    "title": "Monitor Gaming ASUS TUF Gaming VG27AQ1A",
+    "description": "Monitor Gaming ASUS TUF Gaming VG27AQ1A, 27'', 1440p, 170Hz, IPS, Adaptive-Sync, HDR10",
+    "price": 149999,
+    "thumbnails": ["..\\public\\img\\monitor_asus_tuf_vg27aq1a.jpg"],
+    "code": "asusTUFvg27aq1a",
+    "stock": 6,
+    "status": true,
+    "category": "Monitores"
+  },
+  {
+    "title": "Teclado Mecánico Razer Huntsman Mini",
+    "description": "Teclado Mecánico Razer Huntsman Mini, switches ópticos, RGB Chroma, portátil",
+    "price": 99999,
+    "thumbnails": ["..\\public\\img\\keyboard_razer_huntsman_mini.jpg"],
+    "code": "razerHuntsmanMini",
+    "stock": 8,
+    "status": true,
+    "category": "Teclados"
+  },
+  {
+    "title": "Mouse Gaming Logitech G Pro Wireless",
+    "description": "Mouse Gaming Logitech G Pro Wireless, LIGHTSPEED, 16000 DPI, HERO Sensor, 6 Botones",
+    "price": 134999,
+    "thumbnails": ["..\\public\\img\\mouse_logitech_g_pro_wireless.jpg"],
+    "code": "logitechGProWireless",
+    "stock": 7,
+    "status": true,
+    "category": "Mouse"
+  },
+  {
+    "title": "Impresora Multifuncional HP LaserJet Pro M428fdw",
+    "description": "Impresora Multifuncional HP LaserJet Pro M428fdw, Impresión, Copiado, Escaneo, Fax, Wi-Fi, NFC",
+    "price": 379999,
+    "thumbnails": ["..\\public\\img\\impresora_hp_laserjet_pro_m428fdw.jpg"],
+    "code": "hpLaserJetM428fdw",
+    "stock": 4,
+    "status": true,
+    "category": "Impresoras"
+  },
+  {
+    "title": "Audífonos Inalámbricos Sony WH-1000XM4",
+    "description": "Audífonos Inalámbricos Sony WH-1000XM4, Cancelación de Ruido, Bluetooth, Micrófono Integrado",
+    "price": 329999,
+    "thumbnails": ["..\\public\\img\\audifonos_sony_wh1000xm4.jpg"],
+    "code": "sonyWH1000XM4",
+    "stock": 8,
+    "status": true,
+    "category": "Audífonos"
+  },
+  {
+    "title": "Cámara Mirrorless Sony Alpha a7 III",
+    "description": "Cámara Mirrorless Sony Alpha a7 III, Sensor Full Frame, 24.2MP, Video 4K, Wi-Fi, Bluetooth",
+    "price": 319999,
+    "thumbnails": ["..\\public\\img\\camara_sony_alpha_a7iii.jpg"],
+    "code": "sonyAlphaA7III",
+    "stock": 2,
+    "status": true,
+    "category": "Cámaras"
+  },
+  {
+    "title": "Smartwatch Samsung Galaxy Watch 4",
+    "description": "Smartwatch Samsung Galaxy Watch 4, 40mm, Bluetooth, Monitor de Actividad, Sensor de Ritmo Cardíaco",
+    "price": 299999,
+    "thumbnails": ["..\\public\\img\\smartwatch_samsung_galaxy_watch4.jpg"],
+    "code": "samsungGalaxyWatch4",
+    "stock": 10,
+    "status": true,
+    "category": "Smartwatches"
+  },
+  {
+    "title": "Tablet Apple iPad Air 2020",
+    "description": "Tablet Apple iPad Air 2020, 10.9'', 64GB, Wi-Fi, Gris Espacial",
+    "price": 779999,
+    "thumbnails": ["..\\public\\img\\tablet_apple_ipad_air_2020.jpg"],
+    "code": "appleiPadAir2020",
+    "stock": 3,
+    "status": true,
+    "category": "Tablets"
+  }
+]
