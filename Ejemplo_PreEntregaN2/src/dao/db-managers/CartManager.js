@@ -88,7 +88,7 @@ export default class CartManager {
     try {
       const updatedCart = await cartModel.findOneAndUpdate(
         { _id: cid },
-        { $set: { products: { $each: product_list } } },
+        { $set: { products: product_list } },
         { new: true }
       );
       return updatedCart;
